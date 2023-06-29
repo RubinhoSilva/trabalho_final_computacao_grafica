@@ -1,0 +1,13 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Australian_Cattle_Dog
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.180000 0.180000 0.180000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /Users/rubensfilho/Downloads/Australian_Cattle_Dog_v1_L3.123c9c6a5764-399b-4e86-9897-6bcb08b5e8ed/Australian_Cattle_Dog_dif.jpg
+map_Bump /Users/rubensfilho/Downloads/Australian_Cattle_Dog_v1_L3.123c9c6a5764-399b-4e86-9897-6bcb08b5e8ed/Australian_Cattle_Dog_bump.jpg

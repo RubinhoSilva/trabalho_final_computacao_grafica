@@ -1,0 +1,15 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Drops
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ke 0.2901961 0.6666667 0.80784315
+Ks 0.015686275 0.2784314 0.36862746
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd /Users/rubensfilho/Downloads/uploads_files_3038934_Drops/DropsAlbedo.png
+map_Ks /Users/rubensfilho/Downloads/uploads_files_3038934_Drops/DropsRough.png
+map_refl /Users/rubensfilho/Downloads/uploads_files_3038934_Drops/DropsMetal.png
+map_Bump -bm 0.300000 /Users/rubensfilho/Downloads/uploads_files_3038934_Drops/Map__4_Normal_Bump.tga

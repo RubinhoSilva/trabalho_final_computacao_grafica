@@ -1,0 +1,12 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl 10450_Rectangular_Grass_Patch_v1
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.05490196 0.12156863 0.011764706
+Ke 0.9647059 0.69411767 0.36078432
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /Users/rubensfilho/Downloads/10450_Rectangular_Grass_Patch_L3.123c827d110a-1347-4381-9208-e4f735762647/10450_Rectangular_Grass_Patch_v1_Diffuse.jpg

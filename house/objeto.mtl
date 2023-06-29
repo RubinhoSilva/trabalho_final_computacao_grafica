@@ -1,0 +1,12 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl cottage_texture
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.9647059 0.69411767 0.36078432
+Ke 0.54901963 0.47058824 0.26666668
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd texture.png
